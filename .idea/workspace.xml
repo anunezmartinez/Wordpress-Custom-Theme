@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="02af48ed-7e90-45c7-ac39-c983faf4605a" name="Default Changelist" comment="" />
+    <list default="true" id="02af48ed-7e90-45c7-ac39-c983faf4605a" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/html/wp-config.php" beforeDir="false" afterPath="$PROJECT_DIR$/html/wp-config.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,16 +14,31 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$" />
+    </include_path>
+  </component>
   <component name="ProjectId" id="1jWjUMO9X0kN26ChU0YIxoYzjcN" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.PHP" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -32,6 +51,10 @@
       <updated>1603926757158</updated>
       <workItem from="1603926758527" duration="23000" />
       <workItem from="1603926792820" duration="65000" />
+      <workItem from="1605091918967" duration="92000" />
+      <workItem from="1605108830736" duration="89000" />
+      <workItem from="1605110048827" duration="1823000" />
+      <workItem from="1605111957401" duration="504000" />
     </task>
     <servers />
   </component>
@@ -39,9 +62,52 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="461" y="169" width="1411" height="841" key="SettingsEditor" timestamp="1603926814266">
+    <state x="746" y="244" key="#CLI_Interpreters" timestamp="1605112184698">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state x="461" y="169" width="1411" height="841" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1603926814266" />
+    <state x="746" y="244" key="#CLI_Interpreters/0.0.1920.1050@0.0.1920.1050" timestamp="1605112184698" />
+    <state x="1006" y="506" key="#Path_mapping" timestamp="1605110248309">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="1006" y="506" key="#Path_mapping/0.0.1920.1050@0.0.1920.1050" timestamp="1605110248309" />
+    <state x="798" y="450" key="#WordPress" timestamp="1605108861848">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="798" y="450" key="#WordPress/0.0.1920.1050@0.0.1920.1050" timestamp="1605108861848" />
+    <state x="416" y="149" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605112126203">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="416" y="149" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1605112126203" />
+    <state x="946" y="331" key="FileChooserDialogImpl" timestamp="1605112067937">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="946" y="331" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1605112067937" />
+    <state width="1293" height="342" key="GridCell.Tab.0.bottom" timestamp="1605111312486">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1293" height="342" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1605111312486" />
+    <state width="1293" height="342" key="GridCell.Tab.0.center" timestamp="1605111312486">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1293" height="342" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1605111312486" />
+    <state width="1293" height="342" key="GridCell.Tab.0.left" timestamp="1605111312486">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1293" height="342" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1605111312486" />
+    <state width="1293" height="342" key="GridCell.Tab.0.right" timestamp="1605111312486">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1293" height="342" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1605111312486" />
+    <state width="196" height="539" key="HiddenNamespacesPopup" timestamp="1605111429263">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="196" height="539" key="HiddenNamespacesPopup/0.0.1920.1050@0.0.1920.1050" timestamp="1605111429263" />
+    <state x="461" y="169" width="1411" height="841" key="SettingsEditor" timestamp="1605112243598">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="169" width="1411" height="841" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1605112243598" />
+  </component>
+  <component name="WordPressConfiguration" enabled="true">
+    <wordpressPath>C:\Users\ajaxdev\Documents\code\wordpress-main\html</wordpressPath>
   </component>
 </project>
