@@ -15,5 +15,19 @@
         </introspection-scope>
       </schema-mapping>
     </data-source>
+    <data-source name="wordpress@localhost [2]" uuid="f1483c67-85aa-47dd-8a34-4c23d3e6bb5d">
+      <database-info product="MySQL" version="5.7.32" jdbc-version="4.2" driver-name="MySQL Connector/J" driver-version="mysql-connector-java-8.0.21 (Revision: 33f65445a1bcc544eb0120491926484da168f199)" dbms="MYSQL" exact-version="5.7.32" exact-driver-version="8.0">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="exact" quoted-identifiers="exact" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>wordpress</user-name>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema" negative="1" />
+        </introspection-scope>
+      </schema-mapping>
+    </data-source>
   </component>
 </project>
